@@ -2,4 +2,4 @@
 
 Jeporady
 
-This is project is a updated version of the old school Jeparady!
+This is project is a updated version of te old school Jeparady!
